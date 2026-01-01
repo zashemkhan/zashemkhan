@@ -1,4 +1,4 @@
-# Hi, I’m Zasem Khan 👋
+# Hi, I’m Zasem Khan 
 
 I’m a friendly and curious **Frontend Web Developer and UI/UX Designer** who loves building smooth, interactive, and user-friendly web experiences.  
 I enjoy learning new technologies, designing clean interfaces, and turning ideas into real-world products.
