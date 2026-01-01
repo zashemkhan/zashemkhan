@@ -39,7 +39,10 @@ I enjoy learning new technologies, designing clean interfaces, and turning ideas
 
 ## 📊 Current Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=zashemkhan&theme=radical)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=zashemkhan&theme=radical" alt="GitHub Streak"/>
+</p>
+
 
 
 ---
