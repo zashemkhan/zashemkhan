@@ -37,10 +37,11 @@ I enjoy learning new technologies, designing clean interfaces, and turning ideas
 
 ## 📊 Current Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=zashemkhan&theme=radical)
+## 📊 Current Stats
 
+![Zasem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zashemkhan&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?zashemkhan=zashemkhan&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zashemkhan&layout=compact&theme=radical)
 
 ---
 
