@@ -1,15 +1,4 @@
-# Hi, I’m Zasem Khan 👋
-
-I’m a friendly and curious **Frontend Web Developer and UI/UX Designer** who loves building smooth, interactive, and user-friendly web experiences.  
-I enjoy learning new technologies, designing clean interfaces, and turning ideas into real-world products.
-
----
-
-## 🚀 What I Do
-- Build modern frontend applications with JavaScript and React  
-- Design clean and user-focused UI/UX  
-- Create responsive layouts using CSS and Tailwind  
-- Develop full-stack features using Node.js, Express, and MongoDB  # Hi, I’m Zasem Khan 
+# Hi, I’m Zasem Khan 
 
 I’m a friendly and curious **Frontend Web Developer and UI/UX Designer** who loves building smooth, interactive, and user-friendly web experiences.  
 I enjoy learning new technologies, designing clean interfaces, and turning ideas into real-world products.
@@ -82,67 +71,3 @@ I enjoy learning new technologies, designing clean interfaces, and turning ideas
    Let’s build something meaningful together.
 </p>
 
-
-
----
-
-## 💻 Skills & Technologies
-
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-</p>
-
----
-
-## 🌱 Currently Focused On
-
-<p align="center">
-- Building real-world frontend and MERN stack projects<br/>
-- Improving UI/UX design skills<br/>
-- Writing clean, maintainable JavaScript code
-</p>
-
----
-
-## 📊 GitHub Stats & Streak
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zashemkhan&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=zashemkhan&theme=radical" alt="GitHub Streak" />
-</p>
-
----
-
-## 📫 Reach Out
-
-<p align="center">
-  <a href="https://www.facebook.com/YOUR_PROFILE" target="_blank">
-    <img src="https://img.icons8.com/color/48/facebook-new.png" alt="Facebook"/>
-  </a>
-  <a href="https://www.linkedin.com/in/zasem-khan" target="_blank">
-    <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn"/>
-  </a>
-  <!-- Twitter optional -->
-  <!-- <a href="https://twitter.com/YOUR_PROFILE" target="_blank">
-    <img src="https://img.icons8.com/color/48/twitter.png" alt="Twitter"/>
-  </a> -->
-</p>
-
----
-
-<p align="center">
-<b>Always learning. Always building. Always improving.</b><br/>
-Let’s build something meaningful together.
-</p>
