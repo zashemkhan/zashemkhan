@@ -13,7 +13,7 @@ I enjoy learning new technologies, designing clean interfaces, and turning ideas
 
 ---
 
-## 🛠️ Skills & Technologies
+## 💻 Skills & Technologies
 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -37,7 +37,7 @@ I enjoy learning new technologies, designing clean interfaces, and turning ideas
 
 
 
-## 📊 Current Stats
+## 📈 Current Stats
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=zashemkhan&theme=radical" alt="GitHub Streak"/>
@@ -47,7 +47,7 @@ I enjoy learning new technologies, designing clean interfaces, and turning ideas
 
 ---
 
-## 🤝 Reach Out
+## 📫 Reach Out
 
 <p align="center">
   <a href="https://www.facebook.com/YOUR_PROFILE" target="_blank">
@@ -66,8 +66,8 @@ I enjoy learning new technologies, designing clean interfaces, and turning ideas
 <hr/>
 
 <p align="center">
-  ⭐ <b>Always learning. Always building. Always improving.</b>  
+   <b>Always learning. Always building. Always improving.</b>  
   <br/>
-  🚀 Let’s build something meaningful together.
+   Let’s build something meaningful together.
 </p>
 
