@@ -50,7 +50,7 @@ I enjoy learning new technologies, designing clean interfaces, and turning ideas
 ##  Reach Out
 
 <p align="center">
-  <a href="profile.php?id=61572980586517" target="_blank">
+  <a href="https://www.facebook.com/profile.php?id=61572980586517" target="_blank">
     <img src="https://img.icons8.com/color/48/facebook-new.png" alt="Facebook"/>
   </a>
   <a href="https://www.linkedin.com/in/zasem-khan/" target="_blank">
