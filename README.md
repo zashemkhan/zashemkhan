@@ -37,9 +37,9 @@ I enjoy learning new technologies, designing clean interfaces, and turning ideas
 
 ## 📊 Current Stats
 
-![Zasem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
+![Zasem's GitHub Stats](https://github-readme-stats.vercel.app/api?zashemkhan=zashemkhan&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?zashemkhan=zashemkhan&layout=compact&theme=tokyonight)
 
 ---
 
