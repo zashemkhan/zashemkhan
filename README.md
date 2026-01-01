@@ -5,7 +5,7 @@ I enjoy learning new technologies, designing clean interfaces, and turning ideas
 
 ---
 
-## 🚀 What I Do
+##  What I Do
 - Build modern frontend applications with JavaScript and React  
 - Design clean and user-focused UI/UX  
 - Create responsive layouts using CSS and Tailwind  
@@ -13,7 +13,7 @@ I enjoy learning new technologies, designing clean interfaces, and turning ideas
 
 ---
 
-## 💻 Skills & Technologies
+##  Skills & Technologies
 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -28,7 +28,7 @@ I enjoy learning new technologies, designing clean interfaces, and turning ideas
 
 ---
 
-## 🌱 Currently Focused On
+##  Currently Focused On
 - Building real-world frontend and MERN stack projects  
 - Improving UI/UX design skills  
 - Writing clean, maintainable JavaScript code  
@@ -37,7 +37,7 @@ I enjoy learning new technologies, designing clean interfaces, and turning ideas
 
 
 
-## 📈 Current Stats
+##  Current Stats
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=zashemkhan&theme=radical" alt="GitHub Streak"/>
@@ -47,7 +47,7 @@ I enjoy learning new technologies, designing clean interfaces, and turning ideas
 
 ---
 
-## 📫 Reach Out
+##  Reach Out
 
 <p align="center">
   <a href="profile.php?id=61572980586517" target="_blank">
