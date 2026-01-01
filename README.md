@@ -50,14 +50,14 @@ I enjoy learning new technologies, designing clean interfaces, and turning ideas
 ## 📫 Reach Out
 
 <p align="center">
-  <a href="https://www.facebook.com/YOUR_PROFILE" target="_blank">
+  <a href="profile.php?id=61572980586517" target="_blank">
     <img src="https://img.icons8.com/color/48/facebook-new.png" alt="Facebook"/>
   </a>
-  <a href="https://www.linkedin.com/in/YOUR_PROFILE" target="_blank">
+  <a href="in/zasem-khan" target="_blank">
     <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn"/>
   </a>
-  <a href="https://twitter.com/YOUR_PROFILE" target="_blank">
-    <img src="https://img.icons8.com/color/48/twitter.png" alt="Twitter"/>
+  <!-- <a href="https://twitter.com/YOUR_PROFILE" target="_blank"> -->
+    <!-- <img src="https://img.icons8.com/color/48/twitter.png" alt="Twitter"/> -->
   </a>
 </p>
 
